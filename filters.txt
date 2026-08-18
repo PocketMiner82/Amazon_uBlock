@@ -1,3 +1,7 @@
+! Title: Amazon Annoyances
+! Last modified: Tue, 18 Aug 2026 17:49:34 +0000
+! Homepage: https://github.com/PocketMiner82/Amazon_uBlock
+
 ! start page
 amazon.*###gw-layout
 amazon.*###desktop-banner
