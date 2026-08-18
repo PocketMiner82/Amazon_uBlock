@@ -1,0 +1,25 @@
+! start page
+amazon.*###gw-layout
+amazon.*###desktop-banner
+
+! tooltip for rufus
+amazon.*###rufus-ask-rufus-tooltip
+
+! navbar
+amazon.*###nav-join-prime
+amazon.*###nav-rufus-disco
+
+! product page
+amazon.*###primeDPUpsellStaticContainerNPA
+amazon.*###sims-discoveryAndInspiration_feature_div_0
+
+! shopping cart
+amazon.*###sc-new-upsell
+amazon.*###sc-primeupsell-widget
+
+! checkout prime interstitial (upsell page shown between cart and checkout)
+amazon.*##+js(trusted-click-element, #prime-decline-button .a-button-text)
+
+! checkout
+amazon.*###prime-spc-stripe-recommendations
+amazon.*###osu-prime-recommendations
